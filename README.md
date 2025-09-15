@@ -1,0 +1,1 @@
+JeniusAcademy is an online learning platform designed to provide an effective learning experience for students. This repository contains the source code for the website, which includes five main pages: Home, Registration, Subscription, Testimony, and Learn.
